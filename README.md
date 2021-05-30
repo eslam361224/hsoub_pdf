@@ -8,3 +8,11 @@
 
 #### The content is published according to the Creative Commons Attribution of the author is not a commercial reciprocal participation if not indicated otherwise.
 #### https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ar
+
+###progress :
+####working on it ( print, edit, compain ) | alredy uploaded (DONE)
+
+Html (DONE)
+python ( IN PROGRESS )
+
+

@@ -12,7 +12,7 @@
 ###progress :
 ####working on it ( print, edit, compain ) | alredy uploaded (DONE)
 
-Html (DONE)
-python ( IN PROGRESS )
+#####Html (DONE)
+#####python ( IN PROGRESS )
 
 
